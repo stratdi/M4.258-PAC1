@@ -1,13 +1,18 @@
 /* Colors */
-$bg-color: #4D4C7D;
+$bg-color: #4d4c7d;
 $text-dark: black;
 $title-color: white;
 $text-light: white;
-$menu-hover-color: #F99417;
+$menu-hover-color: #f99417;
 $article-color: white;
-$color-header-gradient: #363062;
-$color-header-text: white;
-$box-shadow: rgba(0, 0, 0, 0.16) 0px 3px 6px, rgba(0, 0, 0, 0.23) 0px 3px 6px;
+$header-bg-color: #363062;
+$box-shadow: rgba(0, 0, 0, .16) 0px 3px 6px, rgba(0, 0, 0, .23) 0px 3px 6px;
+$image-box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
 $font-family: 'PT Sans', sans-serif;
+$header-font-family: 'Merienda', cursive;
 $footer-bg-color: #1e1a3a;
 $footer-text-color: white;
+
+$tablet-max-width: 992px;
+
+$text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
