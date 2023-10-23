@@ -125,9 +125,13 @@ main {
       text-align: center;
 
       .figure--image {
-        width: 400px;
+        max-width: 400px;
         border-radius: 20px;
         box-shadow: $image-box-shadow;
+
+        @media (max-width: 400px) {
+          width: 100%;
+        }
       }
     }
   }
