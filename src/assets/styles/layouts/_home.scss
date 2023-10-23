@@ -113,7 +113,8 @@ main {
         align-items: center;
       }
 
-      .figure--image {
+      .figure--image,
+      .figure--iframe {
         max-width: 100%;
         height: auto;
       }
