@@ -129,7 +129,7 @@ main {
         border-radius: 20px;
         box-shadow: $image-box-shadow;
 
-        @media (max-width: 400px) {
+        @media (max-width: 600px) {
           width: 100%;
         }
       }
